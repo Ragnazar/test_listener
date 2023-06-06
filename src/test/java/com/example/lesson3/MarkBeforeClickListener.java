@@ -1,3 +1,5 @@
+package com.example.lesson3;
+
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.events.WebDriverEventListener;
 
